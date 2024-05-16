@@ -5,5 +5,5 @@
 # Ignored folders
 __pycache__/
 .idea/
-/results/
-/allure-report/
+results/
+allure-report/

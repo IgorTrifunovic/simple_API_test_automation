@@ -3,5 +3,7 @@
 /workspace.xml
 
 # Ignored folders
+__pycache__/
+.idea/
 /results/
 /allure-report/
